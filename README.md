@@ -110,10 +110,10 @@ Step14. click on debug and simulate using simulation as shown below
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 500
 
-TON = 
-TOFF=
-TOTAL TIME = 
-FREQUENCY = 1/(TOTAL TIME)
+TON = 40
+TOFF= 20
+TOTAL TIME = 60
+FREQUENCY = 1/(TOTAL TIME)=
 
 FOR PULSE AT 700
 
