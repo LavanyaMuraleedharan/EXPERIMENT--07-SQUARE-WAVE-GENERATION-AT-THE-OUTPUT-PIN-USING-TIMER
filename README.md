@@ -188,10 +188,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
+![280249649-ee48609b-245d-41a5-beb5-1d59cefd6dfe](https://github.com/LavanyaMuraleedharan/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/120103862/28996738-1b42-4d64-b2b0-5dd62d4c9f10)
 
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+ ![280249725-1990e6e8-f19e-4657-9b25-f6eea0cfab20](https://github.com/LavanyaMuraleedharan/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/120103862/d9543d6a-bd55-4de9-99f4-4023ffe17807)
+
  
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
